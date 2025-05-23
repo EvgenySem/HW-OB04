@@ -29,7 +29,7 @@ class Sword(Weapon):
         self.weapon_name = 'Меч'
 
     def attack(self):
-        print('Врагу нанесен рассекающий удар мечем!')
+        print('Врагу нанесен рассекающий удар мечом!')
 
 
 class Bow(Weapon):
